@@ -1,4 +1,4 @@
-# Know how
+# Apollo
 
 > My knowledge base for common problems I encounter
 
